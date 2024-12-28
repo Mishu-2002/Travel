@@ -1,0 +1,65 @@
+.Ice {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Rose {
+    color: orange;
+}
+
+.Orange {
+    color: orange;
+}
+
+.Mango {
+    margin: 10%;
+}
+
+.Guava {
+    background-color: rgb(241, 123, 13);
+}
+
+.Papaya {
+    background-color: rgb(239, 95, 6);
+    color: aliceblue;
+}
+
+.Purple {
+    text-align: center;
+}
+
+.Graip {
+    display: flex;
+    background-color: antiquewhite;
+    height: 600px;
+    width: 1300px;
+    justify-content: center;
+    margin: 7%;
+}
+
+.Tree {
+    text-align: center;
+    margin: 10%;
+}
+
+.Apple {
+    text-align: center;
+}
+
+.Ginger {
+    background-color: antiquewhite;
+}
+
+.Tarmeric {
+    background-color: antiquewhite;
+}
+
+.Garlic {
+    display: flex;
+    gap: 40%;
+    margin: 7%;
+}
+
+.Tamarind {
+    margin: 10%;
+}
