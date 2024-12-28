@@ -63,3 +63,67 @@
 .Tamarind {
     margin: 10%;
 }
+
+.Oil {
+    margin: 10%;
+}
+
+.Salt {
+    display: flex;
+    background-color: antiquewhite;
+    margin: 50PX;
+}
+
+.Potato {
+    background-color: orange;
+}
+
+.Poetry {
+    margin: 10%;
+}
+
+.Poem {
+    display: flex;
+    margin: 10%;
+    gap: 30%;
+    background-color: antiquewhite;
+}
+
+.pokie {
+    color: orange;
+}
+
+.container {
+    display: flex;
+}
+
+.Collage {
+    margin: 25%;
+    background-color: antiquewhite;
+    height: 400px;
+    width: 800px;
+}
+
+.None {
+    text-align: center;
+}
+
+.Lemon {
+    text-align: center;
+}
+
+.Papaya {
+    color: orange;
+}
+
+.Saymon {
+    color: rgb(235, 94, 55);
+}
+
+.Ok {
+    text-align: center;
+}
+
+.Picock {
+    gap: 20%;
+}
